@@ -1,5 +1,7 @@
 package supermercadoprojeto;
 
+import static java.lang.String.format;
+
 public class Registradora {
     EstoqueProduto estoque;
     Venda v;
@@ -32,7 +34,7 @@ public class Registradora {
     
     //devolve o valor do troco
     public void getTroco(){
-        System.out.println("Troco: R$" + v.getTroco());
+        System.out.println("Troco: R$" + format("%.2f", v.getTroco()));
     }
     
 }
