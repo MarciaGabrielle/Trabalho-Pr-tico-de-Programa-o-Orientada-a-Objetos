@@ -13,7 +13,7 @@ public class SupermercadoMain {
         
         OperadorDeCaixa operador = new OperadorDeCaixa("Gaby", "Gaaby27", "1111" );
         
-        auxilioPrint.ImprimaMensagem("\tBem vindo ao Sistema do Supermercado Nexus");
+        auxilioPrint.ImprimaMensagem("\t\tBem vindo ao Sistema do Supermercado Nexus");
         auxilioPrint.Continuar();
         
         Registradora reg = new Registradora();
