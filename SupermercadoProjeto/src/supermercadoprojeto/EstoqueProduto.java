@@ -11,8 +11,8 @@ public class EstoqueProduto {
     public EstoqueProduto(){
         
         hashProduto = new HashMap();
-        Produto espec1 = new Produto(5432,"Biscoito Mabel", 1.99f);
-        Produto espec2 = new Produto(5433,"Café Tres Corações", 4.99f);
+        Produto espec1 = new Produto(5432,"Bolacha Mabel", 1.99f);
+        Produto espec2 = new Produto(5433,"Cafe Tres Coracoes", 4.99f);
         Produto espec3 = new Produto(5434,"Nissin Miojo", 1.99f);
         Produto espec4 = new Produto(5435,"Fanta Laranja", 5.99f);
         Produto espec5 = new Produto(5436,"Caixa de Chocolate Garoto", 7.50f);
