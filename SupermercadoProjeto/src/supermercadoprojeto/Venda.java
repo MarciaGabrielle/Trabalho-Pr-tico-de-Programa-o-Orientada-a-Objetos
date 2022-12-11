@@ -12,7 +12,7 @@ public class Venda {
         itensVenda = new ArrayList();
     }
 
-    // METODO QUE CALCULA A SOMA DOS PRODUTOS DO CARRINHO
+    // METODO QUE CALCULA A SOMA DOS PRODUTOS DO CARRINHO \\
     public float valorTotal() {
         float total = 0.f;
 
