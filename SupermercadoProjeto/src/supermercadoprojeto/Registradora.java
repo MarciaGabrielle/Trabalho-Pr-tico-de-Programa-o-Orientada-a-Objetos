@@ -4,7 +4,6 @@ public class Registradora {
     EstoqueProduto estoque;
     Venda v;
     
-    
     public Registradora() {    
         estoque = new EstoqueProduto();
     }     
