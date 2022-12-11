@@ -1,17 +1,14 @@
 package supermercadoprojeto;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 /**
  *
  * @author Marcia .....
  */
 public class SupermercadoMain {
-    import java.util.ArrayList;
-    import java.util.List;
-    import java.util.Scanner;
-    
-    public static void main(String[] args) {
         private static Scanner in = new Scanner(System.in);
-    
         private static List<String> senhas = new ArrayList<String>()
         {{ add("1111"); }}; 
     
@@ -77,7 +74,7 @@ public class SupermercadoMain {
                     break;
             }
         } while(!sairMenu); 
-    }   
+        
     }
     
 }
