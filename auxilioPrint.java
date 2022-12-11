@@ -22,6 +22,6 @@ public class auxilioPrint {
     public static void Continuar(){
         System.out.println();
         System.out.println("Aperte ENTER para continuar ...");
-        in.nextLine();
+        in.nextLine(); //a gabi nao gosta de nada muito fresca
     }
 }
