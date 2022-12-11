@@ -3,10 +3,7 @@ package supermercadoprojeto;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-/**
- *
- * @author Marcia .....
- */
+
 public class SupermercadoMain {
         private static Scanner in = new Scanner(System.in);
         private static List<String> senhas = new ArrayList<String>()
