@@ -36,7 +36,7 @@ public class SupermercadoMain {
                           
                     do{
                         auxilioPrint.ImprimaMensagem("\t\t\tPassando Produtos");
-                        System.out.println("Codigo dos Produtos:\n5432 - Bolacha ou Biscoito Mabel\n5433 - Nissin Miojo\n5434 - Cafe tres Coracoes\n5435 - Fanta Laranja\n5436 - Caixa de Chocolate Garoto\n");
+                        System.out.println("Codigo dos Produtos:\n5432 - Bolacha Mabel\n5433 - Nissin Miojo\n5434 - Cafe tres Coracoes\n5435 - Fanta Laranja\n5436 - Caixa de Chocolate Garoto\n");
                         System.out.println(" [ 1 ] Incluir Produtos\n [ 2 ] Finalizar venda\n [ 0 ] Voltar");
                         int opcao2 = in.nextInt();
                         
