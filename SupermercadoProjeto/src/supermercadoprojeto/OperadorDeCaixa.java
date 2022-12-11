@@ -1,4 +1,4 @@
-package projetosupermercado;
+package supermercadoprojeto;
 
 import java.util.Scanner;
 //Operador de Caixa é classe filha de Funcionario
