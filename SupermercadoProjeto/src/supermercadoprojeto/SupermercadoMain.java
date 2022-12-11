@@ -5,10 +5,10 @@ package supermercadoprojeto;
  * @author Marcia .....
  */
 public class SupermercadoMain {
-
-    /**
-     * @param args the command line arguments
-     */
+    import java.util.ArrayList;
+    import java.util.List;
+    import java.util.Scanner;
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
