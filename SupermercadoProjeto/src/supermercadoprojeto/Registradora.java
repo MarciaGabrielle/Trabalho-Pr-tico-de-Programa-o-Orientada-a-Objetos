@@ -1,4 +1,4 @@
-package projetosupermercado;
+package supermercadoprojeto;
 
 public class Registradora {
     EstoqueProduto estoque;
