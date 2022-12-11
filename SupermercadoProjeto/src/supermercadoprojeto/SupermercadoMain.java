@@ -1,0 +1,16 @@
+package supermercadoprojeto;
+
+/**
+ *
+ * @author Marcia .....
+ */
+public class SupermercadoMain {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
